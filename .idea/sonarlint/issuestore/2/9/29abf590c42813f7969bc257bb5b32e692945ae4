@@ -1,0 +1,20 @@
+
+d
+java:S1192"IDefine a constant instead of duplicating this literal "A count=" 3 times.(²Ä¯©üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›±Íİüÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "data3".(õ¥ğ“üÿÿÿÿ
+O
+java:S1854	"9Remove this useless assignment to local variable "data2".(ĞÔ
+O
+java:S1854"9Remove this useless assignment to local variable "data1".(úñ
+@
+java:S1481"*Remove this unused "data1" local variable.(úñ
+E	java:S106"+Replace this use of System.out by a logger.(²Ä¯©üÿÿÿÿ
+@
+java:S1481	"*Remove this unused "data2" local variable.(ĞÔ
+E	java:S106
+"+Replace this use of System.out by a logger.(²Ä¯©üÿÿÿÿ
+E
+java:S1481"*Remove this unused "data3" local variable.(õ¥ğ“üÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(²Ä¯©üÿÿÿÿ

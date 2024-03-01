@@ -1,0 +1,7 @@
+
+e
+java:S1192"JDefine a constant instead of duplicating this literal "A count= " 3 times.(­àìÚşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›±Íİüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(­àìÚşÿÿÿÿ
+E	java:S106	"+Replace this use of System.out by a logger.(Ò³¹Öıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Ö„¡
