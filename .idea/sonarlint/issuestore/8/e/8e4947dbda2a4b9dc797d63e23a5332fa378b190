@@ -1,8 +1,0 @@
-
-n
-java:S1104"QMake value a static final constant or non-public and provide accessors if needed.(äå•8Ü´šÉß1
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â­î­ÿÿÿÿÿ
-H
-java:S2387"+"value" is the name of a field in "Parent".(äå•8ì’óÑß1
-L	java:S106
-"+Replace this use of System.out by a logger.(ª †üşÿÿÿÿ8Äõ›Éß1
